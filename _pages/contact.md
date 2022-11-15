@@ -12,6 +12,6 @@ layout: post
 
 |gmail|qqmail|
 |:-:|:-:|
-|wangkailong19@mail.com|wangkailong19@mail.com|
+|wangkailong19@mail.com|kailong.wang@qq.com|
 
 </div>  
