@@ -2,7 +2,7 @@
 title: python dic
 author: kai
 date: 2022-11-15
-category: Jekyll
+category: python
 layout: post
 ---
 
