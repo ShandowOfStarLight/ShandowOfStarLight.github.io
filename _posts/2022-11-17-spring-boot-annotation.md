@@ -6,8 +6,6 @@ category: spring
 layout: post
 ---
 
-## Sping Boot注解
-
 ### @EnableAutoConfiguration
 
   它自动配置类路径中存在的bean，并将其配置为运行方法。在Spring Boot 1.2.0发行版中减少了使用此批注，因为开发人员提供了该批注的代替方法，即 @SpringBootApplication 。
