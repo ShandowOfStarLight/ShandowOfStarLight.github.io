@@ -6,19 +6,19 @@ category: spring
 layout: post
 ---
 
-# Sping Boot注解
+## Sping Boot注解
 
-## @EnableAutoConfiguration
+### @EnableAutoConfiguration
 
   它自动配置类路径中存在的bean，并将其配置为运行方法。在Spring Boot 1.2.0发行版中减少了使用此批注，因为开发人员提供了该批注的代替方法，即 @SpringBootApplication 。
 
-## @SpringBootApplication
+### @SpringBootApplication
 
   它是三个注解 @ EnableAutoConfiguration，@ ComponentScan，和 @Configuration 的组合。
 
-## Spring MVC和REST注解
+### Spring MVC和REST注解
 
-### @RequestMapping
+#### @RequestMapping
 
 用于映射网络请求。它具有许多可选元素，例如 consumes, header, method, name, params, path, produces和value。我们将其与类以及方法一起使用
 
